@@ -14,11 +14,9 @@
 
 ## Installation
 
-- In your terminal, clone this repo using **git clone "URL"**
-
 - Navigate to the file location using **cd Section-C** where you will find 2 files.
 
-- Run - **javac ISBNChecker.java**
+- Run - **javac ISBNChecker.java** to compile.
 
 ---
 

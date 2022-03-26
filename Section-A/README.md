@@ -12,7 +12,7 @@
 
 ## Installation
 
-- In your terminal, clone this repo using **git clone "URL"**
+- In your terminal, clone this repo using **git clone git@github.com:ShaanWocker/hyperion-dev-shaan.git**
 
 - Navigate to the file location using **cd Section-A** where you will find 4 files.
 
