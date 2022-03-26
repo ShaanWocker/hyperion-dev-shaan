@@ -14,7 +14,7 @@
 
 ## Installation
 
-- Navigate to the file location using **cd Section-C** where you will find 2 files.
+- If you already cloned this repo, navigate to the file location using **cd Section-C** where you will find 2 files.
 
 - Run - **javac ISBNChecker.java** to compile.
 
